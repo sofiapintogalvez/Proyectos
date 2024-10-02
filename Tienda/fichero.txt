@@ -1,0 +1,10 @@
+Nombre: Valentina
+Direccion: Urb. Dunas del sus
+Producto: 3
+Cantidad: 2
+**************
+Nombre: Sara Lopez
+Direccion: Urb. Dunas del sus
+Producto: 6
+Cantidad: 5
+**************

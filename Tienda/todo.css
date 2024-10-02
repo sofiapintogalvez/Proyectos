@@ -1,0 +1,51 @@
+body{text-align:center;font-size:15;font-family:cursive;color:black}
+
+#fondo{background:url(Imagenes/fondo.jpg);top:0;left:0;bottom:0;right:0;position:absolute;z-index:-1}
+
+#titulo{font-family:'Satisfy',cursive;font-size:86;color:peachpuff;font-weight:600}
+
+ul{list-style:none;margin:auto;width:600px}
+
+li{display:inline-block;width:138;height:20;padding:10px 0px;border:3.5px solid hsl(0, 19%, 48%);text-align:center;border-radius:50px;background-color:tan;font-family:'Boogaloo', cursive;font-size:18.5}
+
+#extra{background-color:rgba(208, 125, 89, 0.7);float:right;margin-right:27;width:530;height:370}
+
+#texto1{text-align:justify;width:500;height:250;margin:auto}
+
+#extra1{background-color:rgba(208, 125, 89, 0.7);float:right;margin-right:55;width:530;height:370}
+
+#texto2{text-align:justify;width:500;height:250;margin:auto}
+
+#extra2{background-color:rgba(208, 125, 89, 0.7);float:right;margin-right:15;width:530;height:370}
+
+#texto3{text-align:justify;width:500;height:250;margin:auto}
+
+#texto4{text-align:justify;width:500;height:250;margin:auto}
+
+#extra4{background-color:rgba(208, 125, 89, 0.7);float:right;margin-right:15;width:530;height:370}
+
+#pie{background-color:rgba(155, 115, 100, 0.74);text-align:justify;height:30;text-align:center;width:1245;margin-left:50}
+
+#compras{background-color:rgba(160, 120, 100, 0.74);height:200;width:250;float:right;margin-right:15;font-family:cursive;text-align:center}
+
+#boton{border:3px solid #7c5256;border-radius:50px;width:120;height:15;padding:10px 0px;margin:auto;background:hsl(0, 14%, 65%);font-family:'Boogaloo', cursive}
+
+#boton2{border:3px solid #357995;border-radius:50px;width:140;height:15;padding:10px 0px;margin:auto;background:hsl(170, 65%, 40%);font-family:'Boogaloo', cursive}
+
+#boton3{margin:auto}
+
+#contenedor{background-color:rgba(0, 120, 140, 0.59);margin:auto;height:390;width:400;font-family:cursive}
+
+#class{background-color:rgba(0, 155, 155, 0.59);margin:auto;height:300;width:500;font-family:cursive;text-align:inherit}
+
+#fichero{background-color:rgba(0, 255, 255, 0.59);width:320;height:300;float:right;font-family:cursive;text-align:center;margin-right:50;margin-top:20}
+
+#codigo{background-color:rgba(0, 200, 150, 0.59);width:500;height:200;margin:auto}
+
+#respuesta{background-color:rgba(222, 146, 136, 0.74);;width:300;height:420;margin:auto}
+
+img{margin-left:17.5;margin-bottom:50}
+
+video{margin-left:6}
+
+#video{margin-right:180}
